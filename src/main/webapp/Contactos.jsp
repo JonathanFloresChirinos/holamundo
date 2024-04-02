@@ -8,5 +8,17 @@
     <body>
         <h1>Contactos</h1>
         <p>Lorem Ipsum</p>
+        <form action="" method="post">
+            <label>Nombre</label>
+            <input type="text" name="nombre">
+            <br>
+            <label>Referencia</label>
+            <input type="text" name="referencia">
+            <br>
+            <label>Mensaje</label>
+            <textarea name="mensaje"></textarea>
+            <br>
+            <input type="submit" value="Enviar">
+        </form>
     </body>
 </html>
