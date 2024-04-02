@@ -10,9 +10,9 @@
         <ul>
             <li><a href="index.jsp">Inicio</a></li>
             <li><a href="Quienes.jsp">Quienes Somos</a></li>
-            <li>Servicios</li>
-            <li>Portafolio</li>
-            <li>Contactos</li>
+            <li><a href="Servicios.jsp">Servicios</a></li>
+            <li><a href="Portafolio.jsp">Portafolio</a></li>
+            <li><a href="Contactos.jsp">Contactos</a></li>
         </ul>
     </body>
 </html>
